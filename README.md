@@ -9,6 +9,7 @@ TO DO.
 
 ## About the authors:
 Noel Rabella: https://github.com/Noel-bs/
+
 Aitor Lucas: https://github.com/aitorlucasc/
 
 We are two students finishing the master, previously we studied a BSc in Telecommunications Engineering in Universitat Pompeu Fabra.
