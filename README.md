@@ -1,2 +1,4 @@
-# tfm_UHC_UB
-Final thesis of the Msc in Data Science from University of Barcelona.
+# Deep Learning for content-based indexing of TV programs
+
+This repository is part of our final thesis from the Msc in Fundamental Principles of Data Science.
+
